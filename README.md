@@ -31,7 +31,7 @@ POST /api/accounts/transfer
 
 ```json
 {
-  "fromId": 1,
-  "toId": 2,
+  "fromId": 2,
+  "toId": 1,
   "amount": 1000
 }
